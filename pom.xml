@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://github.com/DibyaRanjan1/Java_CICD_packages/url>
+      <url>https://github.com/DibyaRanjan1/Java_CICD_packages</url>
 
     </repository>
   </distributionManagement>
